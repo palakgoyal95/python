@@ -1,0 +1,7 @@
+This is a new line added using w+ mode
+This is an appended line
+This is a new line added using r+ mode
+This is a new line added using a+ mode
+This is an appended line
+This is a new line added using r+ mode
+This is a new line added using a+ mode
